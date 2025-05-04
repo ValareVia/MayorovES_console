@@ -20,4 +20,9 @@ ipython_config.py
 !MayorovES.pdf 
 # MayorovES
 
+bin/
+obj/
+*/bin/*
+*/obj/*
+
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
