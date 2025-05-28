@@ -19,4 +19,8 @@ static double Sqr(double X)
 
 
 Console.WriteLine("Квадрат числа " + Х + ":" + r);
+
 //solve task3
+
+//solve task4
+
